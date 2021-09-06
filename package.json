@@ -1,0 +1,9 @@
+{
+  "name": "trueskill-rating",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "trueskill": "^0.0.2"
+  }
+}
