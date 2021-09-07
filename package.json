@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "arpad": "^2.0.0",
     "trueskill": "^0.0.2"
   },
   "scripts": {
